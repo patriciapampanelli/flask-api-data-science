@@ -1,0 +1,10 @@
+pip
+pandas=0.23.3
+numpy=1.15.0rc2
+flask=1.0.2
+sklearn
+keras
+scipy
+matplotlib
+scikit-learn
+tensorflow
